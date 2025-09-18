@@ -1,0 +1,3 @@
+1|Crash la pornire|Programul se inchide imediat dupa lansare|high
+2|Eroare salvare|Fisierul nu se salveaza corect|medium
+3|Afisare gresita|Textele nu sunt aliniate in interfata|low
